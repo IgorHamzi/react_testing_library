@@ -1,13 +1,28 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## :information_source: React Testing Library
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto de testes para consolidar meus conhecimentos sobre testes automatizados desenvolvendo-os para uma aplicação React.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## :rocket: Stack utilizada
+
+* Front-end: React, RTL (React Test Library)
+
+---
+
+## Habilidades desenvolvidas
+
+* Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
+* Simular eventos com a React-Testing-Library em testes automatizados.
+* Testar fluxos lógicos assíncronos com a React-Testing-Library.
+* Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
+* Criar mocks de APIs utilizando fetch.
+* Testar inputs.
+
+---
+
+## :link: O que foi desenvolvido
+
+Nesse projeto foi escrito testes para uma aplicação React.
+
+
+### Projeto realizado no módulo de Front-end do Curso de Desenvolvimento WEB da TRYBE.
